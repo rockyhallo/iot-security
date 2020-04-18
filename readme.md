@@ -123,7 +123,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - 2013, Davidson et al: [FIE on Firmware: Finding Vulnerabilities in Embedded Systems using Symbolic Execution](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf)
 
-https://mayas-ctf-team.blogspot.com/2020/04/hardware-reversing-101.html
+[Hardware reversingctf2020](https://mayas-ctf-team.blogspot.com/2020/04/hardware-reversing-101.html)
 
 ## Case Studies
 <!--lint ignore no-repeat-punctuation-->

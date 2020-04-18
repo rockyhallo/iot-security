@@ -172,6 +172,10 @@ https://www.youtube.com/watch?v=F4SwLKQI6Vs
 - [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/) - Detailed tutorial about how to spot debug pads on a PCB.
 - [UART explained](https://www.mikroe.com/blog/uart-serial-communication) - An in depth explanation of the UART protocol.
 
+###Videos
+
+- [iot-security101].(https://www.youtube.com/watch?v=pIM1qsM2tnM&feature=youtu.be) - Getting started into ARM reverse engineering
+
 
 ## Conferences
 Conferences focused on embedded and/or IoT security.
@@ -190,4 +194,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 To the extent possible under law, Fraunhofer FKIE has waived all copyright and
 related or neighboring rights to this work.
 
-https://www.hellboundhackers.org/articles/index.php?cat_id=1
+

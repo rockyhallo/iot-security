@@ -176,7 +176,7 @@ https://www.youtube.com/watch?v=F4SwLKQI6Vs
 
 ###Videos
 
--[iot-security101].(https://www.youtube.com/watch?v=pIM1qsM2tnM&feature=youtu.be) - Getting started into ARM reverse engineering
+- [Arm reversing](https://www.youtube.com/watch?v=pIM1qsM2tnM&feature=youtu.be) - Getting started into ARM reverse engineering
 
 
 ## Conferences

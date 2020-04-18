@@ -155,6 +155,8 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Router Passwords](https://192-168-1-1ip.mobi/default-router-passwords-list/) - Default login credential database sorted by manufacturer.
 - [Siliconpr0n](https://siliconpr0n.org/) - A Wiki/Archive of all things IC reversing.
 
+https://www.youtube.com/watch?v=F4SwLKQI6Vs
+
 ### Blogs
 <!--lint ignore no-repeat-punctuation-->
 - [/dev/ttyS0's Embedded Device Hacking](http://www.devttys0.com/blog/)

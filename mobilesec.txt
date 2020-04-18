@@ -1,0 +1,22 @@
+https://appsecwiki.com/#/mobilesecurity
+
+https://blog.securitybreached.org/category/tutorials/
+
+https://manifestsecurity.com/android-application-security/
+
+https://www.eshlomo.us/mobile-penetration-testing-kit/
+
+https://github.com/vaib25vicky/awesome-mobile-security
+
+
+https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+
+https://gbhackers.com/mobile-application-penetration-testing/amp/?__twitter_impression=true
+
+https://www.youtube.com/watch?v=vx-FKEqi9b8&list=PLgnrksnL_Rn09gGTTLgi-FL7HxPOoDk3R----videos on android
+
+https://www.hackerone.com/blog/androidhackingmonth-intro-to-android-hacking
+
+https://frida.re/docs/android/------>most important
+
+https://twitter.com/search?q=%23androidhackingmonth&src=typeahead_click
